@@ -1,13 +1,17 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
-body{
+/* body{
   background-image: url('https://previews.123rf.com/images/lisaalisaill/lisaalisaill1902/lisaalisaill190200197/124960698-coffee-concept-on-wooden-background-white-coffee-cup-top-view-with-doodle-illustration-about-coffee-.jpg');
   font-family: monospace;
-}
+} */
 p {
   font-family: Lato;
   color: goldenrod;
   
 }
+.shadow-sm {
+    box-shadow: 0 0rem .5rem rgba(0,0,0,.075)!important;
+}
+
 nav a{
   color: white;
 }
