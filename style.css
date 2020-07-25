@@ -1,4 +1,25 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+body{
+  background-image: url('https://previews.123rf.com/images/lisaalisaill/lisaalisaill1902/lisaalisaill190200197/124960698-coffee-concept-on-wooden-background-white-coffee-cup-top-view-with-doodle-illustration-about-coffee-.jpg');
+  font-family: monospace;
+}
 p {
   font-family: Lato;
-  color: red
+  color: goldenrod;
+  
+}
+nav a{
+  color: white;
+}
+#searchButton {
+  border-radius: 20px;
+    border-color: white;
+    color: navajowhite;
+    height: 27px;
+    font-size: x-small;
+}
+#searchInput{
+  max-height:27px;
+  border-radius:20px;
+  border:2px;
 }
